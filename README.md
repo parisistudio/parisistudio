@@ -10,7 +10,7 @@ Procuro me aprofundar e me tornar um programador Full Stack e trazer meus projet
  <div>
   <a href="https://github.com/parisistudio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parisistudio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <br>
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parisistudio&&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parisistudio&&langs_count=7&theme=dark"/>
 </div>
 
 #
@@ -22,6 +22,15 @@ Procuro me aprofundar e me tornar um programador Full Stack e trazer meus projet
   <img align="center" alt="Rafitz-react" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888228399582162944/react-original.svg">
   <img align="center" alt="Rafitz-python" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888228739555676221/python-original.svg">
   <img align="center" alt="Rafitz-vuejs" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888229304666837064/vuejs-original.svg">
+</div>
+
+#
+### Work With:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafitz-Lua" height="30" width="40" src="https://cdn.discordapp.com/attachments/783052680204517458/882948261244194857/lua-plain-wordmark.svg">
+  <img align="center" alt="Rafitz-css" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226188559024169/css3-original.svg">
+  <img align="center" alt="Rafitz-html" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226390418264084/html5-original.svg">
 </div>
 
 #
