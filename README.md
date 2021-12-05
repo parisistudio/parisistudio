@@ -14,15 +14,6 @@ Procuro me aprofundar e me tornar um programador Full Stack e trazer meus projet
 </div>
 
 #
-### Work With:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafitz-Lua" height="30" width="40" src="https://cdn.discordapp.com/attachments/783052680204517458/882948261244194857/lua-plain-wordmark.svg">
-  <img align="center" alt="Rafitz-css" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226188559024169/css3-original.svg">
-  <img align="center" alt="Rafitz-html" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226390418264084/html5-original.svg">
-</div>
-
-#
 ### Learning/interested:
 
 <div style="display: inline_block"><br>
