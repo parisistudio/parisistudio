@@ -1,6 +1,6 @@
 ### Parisi Studio
 
-Me chame de Parisi, sou desenvolvedor de Lua no FiveM e CEO da Parisi Studio.
+Somos um compania de desenvolvimento de Lua no FiveM e chamada de Parisi Studio.
     
 Procuro me aprofundar e me tornar um programador Full Stack e trazer meus projetos para comunidade.
 
