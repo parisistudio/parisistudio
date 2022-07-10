@@ -1,6 +1,6 @@
 ### Parisi Studio
 
-Somos um compania de desenvolvimento de Lua no FiveM e chamada de Parisi Studio.
+Sou desenvolvedor Front-end.
     
 Procuro me aprofundar e me tornar um programador Full Stack e trazer meus projetos para comunidade.
 
