@@ -16,8 +16,6 @@ Procuro me aprofundar e me tornar um programador Full Stack e trazer meus projet
 ### Learning/interested:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafitz-js" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226866941550642/javascript-original.svg">
-  <img align="center" alt="Rafitz-php" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888227665893556224/php-plain.svg">
   <img align="center" alt="Rafitz-react" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888228399582162944/react-original.svg">
   <img align="center" alt="Rafitz-vuejs" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888229304666837064/vuejs-original.svg">
 </div>
@@ -28,6 +26,7 @@ Procuro me aprofundar e me tornar um programador Full Stack e trazer meus projet
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafitz-css" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226188559024169/css3-original.svg">
   <img align="center" alt="Rafitz-html" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226390418264084/html5-original.svg">
+  <img align="center" alt="Rafitz-js" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226866941550642/javascript-original.svg">
 </div>
 
 #
